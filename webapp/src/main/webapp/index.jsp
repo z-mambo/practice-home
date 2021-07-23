@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Sample Website</h1>
-  <p>Hello World!</p>
+  <p>MAMA Z's CUISINE!</p>
 </div>
 </body>
 </html>
